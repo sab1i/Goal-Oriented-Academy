@@ -21,14 +21,7 @@ pendown()
 
 
 #roof
-color('green')
-begin_fill()
-left(180)
-left(45)
-forward(141)
-left(90)
-forward(141)
-end_fill()
+
 
 
 
